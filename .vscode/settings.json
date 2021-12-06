@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/selenium-java-4.1.0/*.jar",
+            "lib/selenium-java-4.1.0/lib/*.jar",
+            "lib/testng-java-7.4.0/*.jar",
+        ]
+    }
+}
